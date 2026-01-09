@@ -110,6 +110,14 @@ Rather than replacing reasoning, CMM governs when reasoning is necessary and whe
 
 The result is a system that can become more responsive through experience while remaining robust to change. By treating override as a first-class, accountable decision, Computational Muscle Memory demonstrates that latency and reliability need not be opposing forces, but can be reconciled through deliberate control.
 
+---
+
+### Reference Implementation
+
+A minimal prototype implementation of Computational Muscle Memory, including experience logging, reflex storage, override, and rollback, is available here:
+
+https://github.com/datlavenkatareddy/cmm
+
 
 
 
